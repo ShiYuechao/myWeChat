@@ -1,0 +1,9 @@
+{
+    "pages": [
+        "pages/index/main"
+    ],
+    "window": {
+        "navigationBarTitleText": "史越超的小程序",
+        "navigationBarTextStyle": "white"
+    }
+}
