@@ -1,6 +1,6 @@
 {
     "pages": [
-        "pages/index/main"
+        "pages/index/main","pages/header/main"
     ],
     "window": {
         "navigationBarTitleText": "史越超的小程序",
